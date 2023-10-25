@@ -1,0 +1,1 @@
+C:\Users\AthiliSanthoshKumar\Desktop\MVVMArchitecture\MVVMArchitecture.csproj;x64
