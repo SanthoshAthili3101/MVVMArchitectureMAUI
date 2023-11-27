@@ -1,0 +1,1 @@
+# MVVMArchitectureMAUI (Traditional)
